@@ -1,0 +1,7 @@
+# MATLAB autosave / editor files
+*.asv
+*.m~
+# run_all log (machine-specific)
+figures/run_all.log
+# raw Allen NWB downloads (multi-GB; see data/README.md)
+data/allen/*.nwb

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the tutorial it accompanies."
+title: "Nonparametric Partial Directed Coherence (iPDC): tutorial code"
+type: software
+license: MIT
+authors:
+  - family-names: Takahashi
+    given-names: Daniel Y.
+    affiliation: "Brain Institute, UFRN, Brazil"
+  - family-names: Zhang
+    given-names: Yisi
+    affiliation: "Department of Psychological and Cognitive Sciences, Tsinghua University, Beijing, China"
+repository-code: "https://github.com/takahashiyd/nppdc"
+url: "https://github.com/takahashiyd/nppdc"
+preferred-citation:
+  type: article
+  title: "A Tutorial on Nonparametric Estimation of Partial Directed Coherence and Network Hierarchy"
+  authors:
+    - family-names: Takahashi
+      given-names: Daniel Y.
+    - family-names: Zhang
+      given-names: Yisi
+  year: 2026
